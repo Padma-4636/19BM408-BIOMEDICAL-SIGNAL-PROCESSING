@@ -51,7 +51,7 @@ grid on;
 ~~~
 
 # OUTPUT GRAPH :
-<img width="1252" height="822" alt="image" src="https://github.com/user-attachments/assets/2563e9c6-de44-48b2-bf55-28ced8d0e3dd" />
+<img width="1222" height="822" alt="image" src="https://github.com/user-attachments/assets/202469c6-a09b-4de4-90e0-2255e801accb" />
 
 # RESULT :
 The EEG signal was successfully analyzed and its waveform was visualized using MATLAB
